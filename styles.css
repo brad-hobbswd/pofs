@@ -63,16 +63,23 @@ a {
 
 /* HERO BANNER */
 
+/* HERO BANNER IMAGE */
+
 .hero {
 
     width: 100%;
-    height: 500px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 
-    background-image: url("images/salvation-banner.jpg");
+}
 
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+
+.hero img {
+
+    width: 100%;
+    height: auto;
+    display: block;
 
 }
 
@@ -360,16 +367,10 @@ footer {
 @media(max-width:768px){
 
 
-.hero {
+.hero img {
 
-    min-height:60vh;
-
-}
-
-
-.hero-content {
-
-    padding:25px;
+    width:100%;
+    height:auto;
 
 }
 
