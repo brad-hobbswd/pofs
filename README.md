@@ -59,3 +59,76 @@ The goal is to provide a clear and welcoming presentation of the Plan of Salvati
 ---
 
 ## Page Structure
+
+---
+
+## Design
+
+The page uses a church-focused design featuring:
+
+- Navy and gold color palette
+- Scripture highlight sections
+- Clean typography
+- Centered banner presentation
+- Responsive layout for mobile devices
+
+---
+
+## Church Information
+
+### Bethesda Tabernacle
+
+📍 124 E. Tiverton Way  
+Lexington, KY 40517
+
+📞 (859) 327-3584
+
+### Services
+
+**Sunday Morning**  
+11:00 AM
+
+**Wednesday**  
+7:00 PM
+
+**Español Servicio**  
+10:00 AM  
+171 American Ave
+
+---
+
+## Bethesda Tabernacle Links
+
+- About Us  
+https://mercyforyou.org/about-us/
+
+- Ministries  
+https://mercyforyou.org/ministries/
+
+- Media  
+https://mercyforyou.org/media/
+
+- Events  
+https://mercyforyou.org/events/
+
+- Connect Card  
+https://mercyforyou.org/connect-card/
+
+---
+
+## Technology
+
+Built with:
+
+- HTML5
+- CSS3
+- Responsive Web Design
+- GitHub Pages Hosting
+
+---
+
+## Credits
+
+Created for Bethesda Tabernacle outreach and digital ministry resources.
+
+© 2026 Bethesda Tabernacle
