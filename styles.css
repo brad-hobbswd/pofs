@@ -350,11 +350,9 @@ section h2 {
 
 footer {
 
-    background:var(--navy);
-
-    color:white;
-
-    padding:50px 30px 25px;
+    background: var(--navy);
+    color: var(--white);
+    padding: 55px 30px 25px;
 
 }
 
@@ -362,14 +360,14 @@ footer {
 
 .footer-content {
 
-    max-width:1150px;
+    max-width:1200px;
 
     margin:auto;
 
     display:grid;
 
     grid-template-columns:
-    repeat(auto-fit,minmax(250px,1fr));
+    repeat(4, 1fr);
 
     gap:40px;
 
@@ -377,13 +375,23 @@ footer {
 
 
 
-.footer-brand h3,
-.footer-links h3,
-.footer-contact h3 {
+.footer-content h3 {
 
     color:var(--gold);
 
-    font-size:1.4rem;
+    font-size:1.3rem;
+
+    margin-bottom:20px;
+
+}
+
+
+
+.footer-content p {
+
+    color:var(--white);
+
+    font-size:1rem;
 
 }
 
@@ -394,6 +402,8 @@ footer {
     list-style:none;
 
     padding:0;
+
+    margin:0;
 
 }
 
@@ -409,7 +419,7 @@ footer {
 
 .footer-links a {
 
-    color:white;
+    color:var(--white);
 
     transition:.3s ease;
 
@@ -425,9 +435,17 @@ footer {
 
 
 
+.footer-services strong {
+
+    color:var(--gold);
+
+}
+
+
+
 .footer-contact p {
 
-    margin:8px 0;
+    margin-bottom:15px;
 
 }
 
@@ -439,14 +457,11 @@ footer {
 
     margin-top:40px;
 
-    padding-top:20px;
+    padding-top:25px;
 
-    border-top:1px solid rgba(255,255,255,.2);
-
-    font-size:.95rem;
+    border-top:1px solid rgba(255,255,255,.25);
 
 }
-
 
 
 
