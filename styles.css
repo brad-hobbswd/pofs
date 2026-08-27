@@ -1,0 +1,441 @@
+/*========================================================
+
+BETHESDA TABERNACLE
+PLAN OF SALVATION LANDING PAGE STYLES
+
+========================================================*/
+
+
+:root {
+
+    --gold: #c8a45d;
+    --navy: #101b2b;
+    --charcoal: #222222;
+    --cream: #f7f0e6;
+    --white: #ffffff;
+    --light: #faf8f3;
+
+}
+
+
+/* GLOBAL */
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+
+    margin: 0;
+    font-family: "Georgia", serif;
+    background: var(--light);
+    color: var(--charcoal);
+    line-height: 1.8;
+
+}
+
+
+h1,
+h2,
+h3 {
+
+    font-weight: 700;
+    letter-spacing: .5px;
+
+}
+
+
+p {
+
+    font-size: 1.1rem;
+
+}
+
+
+
+a {
+
+    text-decoration: none;
+
+}
+
+
+
+
+/* HERO */
+
+.hero {
+
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    background:
+    linear-gradient(
+        rgba(16,27,43,.75),
+        rgba(16,27,43,.75)
+    ),
+    url("images/salvation-banner.jpg");
+
+    background-size: cover;
+    background-position: center;
+
+    color: var(--white);
+
+}
+
+
+.hero-content {
+
+    max-width: 850px;
+    padding: 40px;
+
+}
+
+
+
+.hero h1 {
+
+    font-size: clamp(2.5rem, 6vw, 4.5rem);
+    margin-bottom: 15px;
+
+}
+
+
+
+.hero h2 {
+
+    font-size: clamp(1.5rem, 3vw, 2.5rem);
+    color: var(--gold);
+
+}
+
+
+
+.hero p {
+
+    font-size: 1.4rem;
+
+}
+
+
+
+/* MAIN CONTAINER */
+
+main {
+
+    max-width: 1100px;
+    margin: auto;
+    padding: 60px 25px;
+
+}
+
+
+
+
+section {
+
+    margin-bottom: 70px;
+
+}
+
+
+
+section h2 {
+
+    text-align: center;
+    color: var(--navy);
+    font-size: 2.2rem;
+    margin-bottom: 30px;
+
+}
+
+
+
+
+/* INTRO */
+
+.intro {
+
+    text-align: center;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+/* NEW BIRTH */
+
+.new-birth {
+
+    background: var(--white);
+    padding: 45px;
+    border-radius: 12px;
+
+    box-shadow:
+    0 10px 30px rgba(0,0,0,.08);
+
+}
+
+
+
+
+
+/* SCRIPTURE SECTION */
+
+.acts-passage {
+
+    background: var(--navy);
+    padding: 50px;
+    border-radius: 15px;
+    color: var(--white);
+
+}
+
+
+
+.acts-passage h2 {
+
+    color: var(--gold);
+
+}
+
+
+
+.scripture-card {
+
+    background: rgba(255,255,255,.08);
+
+    padding: 25px;
+
+    margin: 25px 0;
+
+    border-left: 5px solid var(--gold);
+
+    border-radius: 8px;
+
+}
+
+
+
+.scripture-card strong {
+
+    color: var(--gold);
+
+}
+
+
+
+/* SALVATION STEPS */
+
+
+.steps {
+
+    display: grid;
+
+    grid-template-columns: repeat(
+        auto-fit,
+        minmax(280px,1fr)
+    );
+
+    gap: 30px;
+
+}
+
+
+
+.salvation-card {
+
+    background: var(--white);
+
+    padding: 35px;
+
+    border-radius: 12px;
+
+    border-top: 5px solid var(--gold);
+
+    box-shadow:
+    0 8px 25px rgba(0,0,0,.08);
+
+}
+
+
+
+.salvation-card h3 {
+
+    color: var(--navy);
+
+    font-size: 1.5rem;
+
+}
+
+
+
+.scripture {
+
+    font-style: italic;
+
+    text-align: center;
+
+    margin-top: 25px;
+
+}
+
+
+
+
+/* JESUS NAME SECTION */
+
+
+.jesus-name {
+
+    text-align:center;
+
+    background:
+    linear-gradient(
+        135deg,
+        #101b2b,
+        #1e314d
+    );
+
+    color:white;
+
+    padding:60px 35px;
+
+    border-radius:15px;
+
+}
+
+
+
+.jesus-name h2 {
+
+    color:var(--gold);
+
+}
+
+
+
+.jesus-name .scripture {
+
+    max-width:750px;
+
+    margin:auto;
+
+}
+
+
+
+/* INVITATION */
+
+
+.invitation {
+
+    text-align:center;
+
+    background:var(--cream);
+
+    padding:50px;
+
+    border-radius:15px;
+
+}
+
+
+
+.button {
+
+    display:inline-block;
+
+    margin-top:25px;
+
+    padding:15px 35px;
+
+    background:var(--navy);
+
+    color:white;
+
+    border-radius:50px;
+
+    font-size:1.1rem;
+
+    transition:.3s ease;
+
+}
+
+
+
+.button:hover {
+
+    background:var(--gold);
+
+    color:var(--navy);
+
+}
+
+
+
+
+/* FOOTER */
+
+
+footer {
+
+    background:var(--navy);
+
+    color:white;
+
+    text-align:center;
+
+    padding:35px;
+
+}
+
+
+
+
+/* MOBILE */
+
+
+@media(max-width:768px){
+
+
+.hero {
+
+    min-height:60vh;
+
+}
+
+
+.hero-content {
+
+    padding:25px;
+
+}
+
+
+
+.new-birth,
+.acts-passage,
+.invitation {
+
+    padding:30px 20px;
+
+}
+
+
+
+p {
+
+    font-size:1rem;
+
+}
+
+
+
+}
