@@ -61,15 +61,14 @@ a {
 }
 
 
-/* HERO BANNER */
-
 /* HERO BANNER IMAGE */
 
 .hero {
 
     width: 100%;
-    margin: 0;
-    padding: 0;
+    max-width: 1200px;
+    margin: 40px auto 0;
+    padding: 0 25px;
     overflow: hidden;
 
 }
@@ -81,8 +80,12 @@ a {
     height: auto;
     display: block;
 
-}
+    border-radius: 15px;
 
+    box-shadow:
+    0 10px 30px rgba(0,0,0,.15);
+
+}
 
 
 /* MAIN CONTAINER */
@@ -367,10 +370,18 @@ footer {
 @media(max-width:768px){
 
 
+.hero {
+
+    padding: 0 15px;
+    margin-top: 20px;
+
+}
+
+
 .hero img {
 
     width:100%;
-    height:auto;
+    border-radius:10px;
 
 }
 
