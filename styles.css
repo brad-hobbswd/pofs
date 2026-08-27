@@ -404,5 +404,47 @@ p {
 }
 
 
+/* CONTACT INFORMATION */
+
+.contact-info {
+
+    margin-top:40px;
+
+    padding:30px;
+
+    background:var(--white);
+
+    border-radius:15px;
+
+    box-shadow:
+    0 10px 30px rgba(0,0,0,.08);
+
+}
+
+
+.contact-info h3 {
+
+    color:var(--navy);
+
+    font-size:1.6rem;
+
+}
+
+
+.contact-info a:not(.button) {
+
+    color:var(--navy);
+
+    font-weight:bold;
+
+}
+
+
+.contact-info a:not(.button):hover {
+
+    color:var(--gold);
+
+}
+
 
 }
