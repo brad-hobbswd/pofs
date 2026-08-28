@@ -83,36 +83,127 @@ Lexington, KY 40517
 
 📞 (859) 327-3584
 
-### Services
+---
 
-**Sunday Morning**  
-11:00 AM
+## Worship Services
 
-**Wednesday**  
-7:00 PM
+### Sunday Morning Worship
 
-**Español Servicio**  
-10:00 AM  
+**11:00 AM**  
+124 E. Tiverton Way  
+Lexington, KY 40517
+
+### BethesdaKidz
+
+**After Sunday Worship Services**
+
+BethesdaKidz provides ministry for children following the Sunday worship service.
+
+### Español Servicio
+
+**10:00 AM**  
 171 American Ave
+
+### Wednesday Worship
+
+**7:00 PM**
+
+---
+
+## Ministries & Weekly Gatherings
+
+### Recovery Ministry
+
+**Sunday — 10:00 AM**
+
+Recovery Ministry meets before the Sunday worship service at 11:00 AM.
+
+---
+
+### Bible Institution
+
+**Tuesday — 7:00 PM–9:00 PM**
+
+Bethesda Tabernacle's Bible Institution provides biblical teaching and study.
+
+🌐 https://bapbi.net/
+
+---
+
+### Bible Studies
+
+**Wednesday — 7:00 PM**
+
+Bible Studies are held online through Microsoft Teams.
+
+---
+
+### WOVEN: Women Life Group
+
+**Monday — 7:00 PM**
+
+WOVEN is Bethesda Tabernacle's women's life group.
+
+---
+
+### ROOTED: Men's Life Group
+
+**Thursday — 7:00 PM**
+
+ROOTED is Bethesda Tabernacle's men's life group.
+
+---
+
+### On The Porch
+
+**Saturday — 8:00 AM**
+
+On The Porch is a Saturday morning gathering focused on fellowship, Scripture, and devotion.
+
+---
+
+## Weekly Schedule
+
+| Day | Ministry / Gathering | Time |
+|---|---|---|
+| **Sunday** | Español Servicio | 10:00 AM |
+| **Sunday** | Recovery Ministry | 10:00 AM |
+| **Sunday** | Morning Worship | 11:00 AM |
+| **Sunday** | BethesdaKidz | After Worship |
+| **Monday** | WOVEN: Women Life Group | 7:00 PM |
+| **Tuesday** | Bible Institution | 7:00 PM–9:00 PM |
+| **Wednesday** | Bible Studies — Microsoft Teams | 7:00 PM |
+| **Wednesday** | Worship Service | 7:00 PM |
+| **Thursday** | ROOTED: Men's Life Group | 7:00 PM |
+| **Saturday** | On The Porch | 8:00 AM |
 
 ---
 
 ## Bethesda Tabernacle Links
 
-- About Us  
-https://mercyforyou.org/about-us/
+- [About Us](https://mercyforyou.org/about-us/)
+- [Ministries](https://mercyforyou.org/ministries/)
+- [Media](https://mercyforyou.org/media/)
+- [Events](https://mercyforyou.org/events/)
+- [Connect Card](https://mercyforyou.org/connect-card/)
+- [Bible Institution](https://bapbi.net/)
 
-- Ministries  
-https://mercyforyou.org/ministries/
+---
 
-- Media  
-https://mercyforyou.org/media/
+## Purpose
 
-- Events  
-https://mercyforyou.org/events/
+This page serves as a digital outreach resource for people seeking to understand the Plan of Salvation and connect with Bethesda Tabernacle.
 
-- Connect Card  
-https://mercyforyou.org/connect-card/
+Visitors can learn about salvation through Jesus Christ, explore Scripture, find service times, discover ministries and life groups, and connect with the church.
+
+The page is designed to be shared through:
+
+- Facebook
+- QR codes
+- Flyers
+- Social media
+- Digital outreach
+- Personal invitations
 
 ---
 
