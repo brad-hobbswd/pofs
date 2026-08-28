@@ -344,7 +344,121 @@ section h2 {
 }
 
 
+/*========================================================
 
+WEEKLY SCHEDULE
+
+========================================================*/
+
+.weekly-schedule {
+
+    text-align: center;
+    margin-bottom: 70px;
+
+}
+
+
+.schedule-intro {
+
+    max-width: 800px;
+    margin: 0 auto 40px;
+
+    color: var(--charcoal);
+
+}
+
+
+
+.schedule-grid {
+
+    display: grid;
+
+    grid-template-columns:
+    repeat(3, 1fr);
+
+    gap: 25px;
+
+}
+
+
+
+.schedule-card {
+
+    background: var(--white);
+
+    padding: 30px;
+
+    border-radius: 15px;
+
+    border-top: 4px solid var(--gold);
+
+    box-shadow:
+    0 10px 30px rgba(0,0,0,.08);
+
+    text-align: center;
+
+}
+
+
+
+.schedule-card h3 {
+
+    color: var(--navy);
+
+    font-size: 1.5rem;
+
+    margin-top: 0;
+    margin-bottom: 25px;
+
+}
+
+
+
+.schedule-card p {
+
+    margin-bottom: 22px;
+
+}
+
+
+
+.schedule-card strong {
+
+    color: var(--navy);
+
+}
+
+
+
+.schedule-link {
+
+    display: inline-block;
+
+    margin-top: 5px;
+
+    padding: 10px 20px;
+
+    background: var(--navy);
+
+    color: var(--white);
+
+    border-radius: 25px;
+
+    font-weight: bold;
+
+    transition: .3s ease;
+
+}
+
+
+
+.schedule-link:hover {
+
+    background: var(--gold);
+
+    color: var(--navy);
+
+}
 
 /* FOOTER */
 
